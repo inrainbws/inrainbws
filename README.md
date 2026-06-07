@@ -19,7 +19,7 @@ I'm a AI/ML researcher working on generative models and weight-space learning. I
 
 ---
 
-### 📚 Selected Publications
+### 📚 Source Code for My Research
 
 | Year | Venue | Title |
 | --- | --- | --- |
@@ -31,14 +31,12 @@ I'm a AI/ML researcher working on generative models and weight-space learning. I
 | 2020 | **ECCV** | [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-Face Generation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660698.pdf) · [dataset](https://wywu.github.io/projects/MEAD/MEAD.html)|
 | 2018 | **IEEE Access** | [Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features](https://doi.org/10.1109/ACCESS.2018.2853100) · [code](https://github.com/yzhq97/cnn-registration.git) |
 
-See the [full list of projects and publications](https://inrainbws.github.io) on my website.
-
 ---
 
 ### 🛠️ Projects
 
 - **[ColorHead](https://colorhead.pages.dev/)** — a free desktop app for processing DIY scanned color negatives, with accurate colors, analog paper response, and darkroom-style controls.
-- **[pyrawspeed](https://github.com/kayamerel/pyrawspeed)** — fast Python bindings for [rawspeed](https://github.com/darktable-org/rawspeed) (the RAW decoder behind darktable), returning sensor data as zero-copy numpy arrays. Built for ColorHead.
+- **[pyrawspeed](https://github.com/kayamerel/pyrawspeed)** — fast Python bindings for [rawspeed](https://github.com/darktable-org/rawspeed) (the RAW decoder behind darktable), returning sensor data as zero-copy numpy arrays. Built for ColorHead by [kayamerel](https://github.com/kayamerel).
 - **[AlphaGomokuZero](https://github.com/inrainbws/AlphaGomokuZero)** — an illustration program that visualizes the Monte Carlo Tree Search inside AlphaZero to show how the AI makes decisions.
 - **[logic_pro_drums_for_opxy](https://github.com/inrainbws/logic_pro_drums_for_opxy)** — export drum kits from Logic Pro / GarageBand's Drum Kit Designer to the Teenage Engineering OP-XY format.
 
