@@ -4,8 +4,6 @@ I'm a AI/ML researcher working on generative models and weight-space learning. I
 
 🌐 [Website](https://inrainbws.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=WTDthdcAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/yzhq97/) · 🎵 [Spotify](https://open.spotify.com/track/6Xd2oVpeYPY2DuyOZeHE6j?si=f7c919a3e48e4d29)
 
-### Interests
-
 ![Weight Space Learning](https://img.shields.io/badge/Weight%20Space%20Learning-1f6feb?style=flat-square)
 ![Post-Training](https://img.shields.io/badge/Post--Training-1f6feb?style=flat-square)
 ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-1f6feb?style=flat-square)
