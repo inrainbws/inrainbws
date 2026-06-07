@@ -1,6 +1,4 @@
-# Hi, I'm Zhuoqian Yang 👋
-
-**PhD Candidate at EPFL** · 📍 Lausanne, CH
+## Hi
 
 I'm a AI/ML researcher working on generative models and weight-space learning. I also build hobby-driven projects in **music**, **photography**, and **videography**.
 
