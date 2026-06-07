@@ -1,4 +1,4 @@
-## Hi
+# Hi
 
 I'm a AI/ML researcher working on generative models and weight-space learning. I also build hobby-driven projects in **music**, **photography**, and **videography**.
 
