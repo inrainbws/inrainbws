@@ -31,9 +31,9 @@ I'm a AI/ML researcher working on generative models and weight-space learning. I
 
 ### 🛠️ Projects
 
-- **[ColorHead](https://colorhead.pages.dev/)** — a **free** desktop app for processing DIY scanned color negatives, with accurate colors, analog paper response, and darkroom-style controls.
+- **[ColorHead](https://colorhead.app/)** — a **free** desktop app for processing DIY scanned color negatives, with accurate colors, analog paper response, and darkroom-style controls.
 
-  [![ColorHead](https://colorhead.pages.dev/colorhead-app.png)](https://colorhead.pages.dev/)
+  [![ColorHead](https://colorhead.app/colorhead-app-en.webp)](https://colorhead.pages.dev/)
 
 - **[pyrawspeed](https://github.com/kayamerel/pyrawspeed)** — fast Python bindings for [rawspeed](https://github.com/darktable-org/rawspeed) (the RAW decoder behind darktable), returning sensor data as zero-copy numpy arrays. Built for ColorHead by [kayamerel](https://github.com/kayamerel).
 - **[AlphaGomokuZero](https://github.com/inrainbws/AlphaGomokuZero)** — an illustration program that visualizes the Monte Carlo Tree Search inside AlphaZero to show how the AI makes decisions. Exhibited at the China Science and Technology Museum in 2019.
