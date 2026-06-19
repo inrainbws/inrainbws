@@ -1,6 +1,6 @@
 # Hi
 
-I'm a AI/ML researcher working on generative models and weight-space learning. I also build hobby-driven projects in **music**, **photography**, and **videography**.
+I'm a AI/ML researcher working on generative models and weight-space learning. I also build hobby-driven projects in **music** and **photography**.
 
 🌐 [Website](https://inrainbws.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=WTDthdcAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/yzhq97/) · 🎵 [Spotify](https://open.spotify.com/track/6Xd2oVpeYPY2DuyOZeHE6j?si=f7c919a3e48e4d29)
 
